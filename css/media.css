@@ -1,0 +1,29 @@
+.header img{
+    width: 100px;
+}
+
+.banner img{
+    width: 100%;
+}
+
+.top-menu li a{
+    font-size: 12px;
+}
+
+.container{
+    flex-direction: column;
+}
+
+.sidebar{
+    width: 100%;
+    text-align: center;
+}
+
+.sidebar img{
+    margin: 10px 5px;
+}
+
+.content{
+    margin-left: 0;
+}
+
